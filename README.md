@@ -27,3 +27,9 @@ Helbardt, Sascha. 2011. *Deciphering Southern Thailand's Violence: Organisation 
 ## Files
 
 - BRN-Coordinate_PhD_Sascha_Helbardt.pdf
+
+## Suggested Citation
+
+Helbardt, Sascha. Deciphering Southern Thailand's Violence.
+PhD Dissertation, University of Passau, 2011.
+DOI: https://doi.org/10.5281/zenodo.20483411
